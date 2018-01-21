@@ -1,5 +1,5 @@
 # SpeechRecognition-Sphinx-GCP
-Speech Recognition on edge using OpenCV and on cloud using AWS Rekognition
+Speech Recognition on edge using CMU Sphinx and on cloud using Google Cloud Speech API and Google Natural Language API.
 
 # Overview
 Here is the code for Speech Recognition using Sphinx and Google Cloud Speech API with input from micorphone. The text from speech recognition is then used as input to Google Cloud Natural Language API for Sentiment Analysis and Content Classification. We need a microphone to provide audio input to the program. 
